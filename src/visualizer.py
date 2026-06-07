@@ -81,3 +81,4 @@ class Visualizer:
             return fig
 
         plt.show()
+        # ....
